@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook V5.0//EN"
+  "http://www.oasis-open.org/docbook/xml/5.0/docbook.dtd">
+<article xmlns="http://docbook.org/ns/docbook"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         version="5.0"
+         lang="ja"
+>
+  <info>
+    <title>日本GNOMEユーザー会</title>
+  </info>
+  <section xml:id="about">
+    <title>日本GNOMEユーザー会とは</title>
+    <para>日本GNOMEユーザー会は、日本の GNOME ユーザー同士での情報交換や GNOME の日本語翻訳などを目的として運営されています。</para>
+  </section>
+  <section xml:id="activity">
+    <title>GNOME のローカライズ・翻訳活動</title>
+    <para>私たち、日本GNOMEユーザー会の有志は、GNOME 公式の翻訳プロジェクに参加し、GNOME の日本語化に取り組んでいます。デスクトップ環境、アプリケーションの翻訳だけでなく、マニュアルなどドキュメントの翻訳も進めています。また、翻訳以外にも GNOME 開発元へ、機能改善の提案やバグ報告、パッチの送付なども行い、GNOME の改良に取り組んでいます。</para>
+  </section>
+  <section xml:id="joinus">
+    <title>参加方法</title>
+    <itemizedlist>
+      <listitem>
+        <para>メーリングリスト</para>
+        <para>メンバー間のコミュニケーションは、メーリングリストを通じて行っています。メーリングリストの購読は誰でも簡単にできるので、少しでも興味があれば遠慮なくご参加ください。また、メーリングリストへの投稿もお気軽にどうぞ! ちょっとした質問や翻訳ミスの指摘なども大歓迎です。</para>
+        <para>メーリングリスト: http://mail.gnome.gr.jp/mailman/listinfo/gnome-translation</para>
+      </listitem>
+      <listitem>
+        <para>翻訳者になる</para>
+        <para>実際に翻訳者として活動してくださる方を大募集しています。翻訳者には、誰でも簡単になることができます。ちょっとでも興味があれば、お気軽にご参加ください。何か作業を無理に担当させられるようなこともありません。現在活動中のメンバーは皆、自分のやりたいことを自分のペースで作業しています。翻訳者の登録は以下の「GNOME 翻訳ステータス」というサイトから可能です。</para>
+        <para>GNOME 翻訳ステータス: http://l10n.gnome.org/</para>
+      </listitem>
+    </itemizedlist>
+    <para>
+      より詳しい参加・活動方法については、「<link xlink:href="http://www.gnome.gr.jp/l10n/gnomeja-guide/gnomeja-guide.html">GNOME 日本語翻訳チーム参加者ガイド</link>」で解説しています。どうぞご覧ください。</para>
+    <para>参加者ガイド: http://www.gnome.gr.jp/l10n/gnomeja-guide/gnomeja-guide.html </para>
+  </section>
+  <section>
+    <title>リンク</title>
+    <para>日本GNOMEユーザー会: http://www.gnome.gr.jp/</para>
+    <para>GNOME 日本語翻訳チーム: http://l10n.gnome.org/teams/ja/</para>
+  </section>
+</article>
